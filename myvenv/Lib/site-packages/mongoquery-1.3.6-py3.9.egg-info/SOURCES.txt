@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+VERSION.txt
+setup.cfg
+setup.py
+mongoquery/__init__.py
+mongoquery.egg-info/PKG-INFO
+mongoquery.egg-info/SOURCES.txt
+mongoquery.egg-info/dependency_links.txt
+mongoquery.egg-info/not-zip-safe
+mongoquery.egg-info/requires.txt
+mongoquery.egg-info/top_level.txt
